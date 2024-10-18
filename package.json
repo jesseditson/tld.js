@@ -2,7 +2,7 @@
   "author": "Thomas Parisot (https://thom4.net)",
   "name": "@jesseditson/tldjs",
   "description": "JavaScript API to work against complex domain names, subdomains and URIs.",
-  "version": "2.3.1",
+  "version": "3.0.0",
   "homepage": "https://github.com/thom4parisot/tld.js",
   "repository": {
     "type": "git",
